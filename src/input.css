@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body{
+    text-align: center;
+    background-color:#80a8dc;
+}
+
+h1{
+    color: brown;
+}
